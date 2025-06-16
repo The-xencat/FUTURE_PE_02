@@ -20,6 +20,3 @@ A poetic, nature-inspired perfume brand website built using **Wix AI**.
 
 ## 🌐 Live Site:
 [Nature's Essence (https://littlemanixc.wixstudio.com/perfume-store)]
-
-## 📸 Screenshots:
-See `/screenshots` folder
